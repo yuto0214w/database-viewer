@@ -12,7 +12,7 @@ A database viewer for Windows. (English description available on below Japanese 
   4. `User` の横のテキストボックスにデータベースに書いたユーザー名を入力
   5. `Search` をクリック
 #### 2. IDで指定する
-  1 & 2. 同じ
+  1. 同じ (2. 同じ)
   3. `ItemID` の横にあるテキストボックスにデータベースに書いたIDを入力
   4. `Search` をクリック
 ## Description
@@ -27,6 +27,6 @@ Writing the `.txt` in a certain form will change the text to database!
   4. Type Username to `User`
   5. and click `Search`
 #### 2. Specify using ID
-  1 & 2. same
+  1. same (2. same)
   3. Type ID to `ItemID`
   4. Click `Search`

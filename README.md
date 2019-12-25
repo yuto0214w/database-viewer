@@ -1,5 +1,5 @@
 # Database Viewer
-A database viewer for Windows. (English description available on below Japanese description)
+A database viewer for Windows. (English description available on below Japanese description)</br></br>As-is: It can read database</br>To-be: Can read and write
 ## 説明
 特定の形式で書いた `.txt` をデータベースとして読み込めます。
 ### 書き方
